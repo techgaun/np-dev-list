@@ -1,0 +1,19 @@
+<!-- html select for zones of Nepal
+samar[at]techgaun[dot]com
+-->
+<select name=zonelist>
+<option value="Mechi">Mechi</option>
+<option value="Kosi">Kosi</option>
+<option value="Sagarmatha">Sagarmatha</option>
+<option value="Janakpur">Janakpur</option>
+<option value="Bagmati">Bagmati</option>
+<option value="Narayani">Narayani</option>
+<option value="Gandaki">Gandaki</option>
+<option value="Lumbini">Lumbini</option>
+<option value="Dhawalagiri">Dhawalagiri</option>
+<option value="Rapti">Rapti</option>
+<option value="Karnali">Karnali</option>
+<option value="Bheri">Bheri</option>
+<option value="Seti">Seti</option>
+<option value="Mahakali">Mahakali</option>
+</select>
